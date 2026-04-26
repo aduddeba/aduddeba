@@ -1,14 +1,14 @@
 # Hi, I'm Achyutha Duddebanda
 
-🎓 Computer Science student @ University of Maryland (Machine Learning Track)  
-📍 Ellicott City, MD  
-📊 Minor in Statistics | GPA: 3.77  
+Computer Science student at the University of Maryland (Machine Learning Track)  
+Ellicott City, MD  
+Minor in Statistics  
 
 I’m interested in building intelligent systems, full-stack applications, and interactive experiences that combine machine learning, data, and real-world usability.
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages**  
 Python • Java • JavaScript • SQL • C • Rust  
@@ -24,32 +24,32 @@ Git • Linux • Docker • AWS
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🦇 BatSense — 3D Echolocation Game  
-[View Project](https://devpost.com/software/batsense)  
+### BatSense — 3D Echolocation Game  
+https://devpost.com/software/batsense  
 **Three.js • GLSL • JavaScript**
 
 - Built an interactive 3D cave navigation game using simulated sonar pulses  
 - Implemented custom GLSL shaders for real-time environment visualization  
-- Optimized rendering + collision detection to maintain 60 FPS  
+- Optimized rendering and collision detection to maintain 60 FPS  
 - Developed in a 36-hour hackathon (Bitcamp)
 
 ---
 
-### 🚗 Motivo — Vehicle Recommendation Platform  
-[Live App](https://motivo-app.onrender.com/)  
+### Motivo — Vehicle Recommendation Platform  
+https://motivo-app.onrender.com/  
 **Flask • Python • JavaScript**
 
 - Full-stack app that recommends cars based on user preferences  
 - Filters across budget, body type, and features  
 - Integrated dynamic listings to surface real inventory  
-- Focused on improving recommendation relevance and UX  
+- Focused on improving recommendation relevance and user experience  
 
 ---
 
-### 📄 LatexGen — Natural Language → LaTeX  
-[Live App](https://latexgen.onrender.com/)  
+### LatexGen — Natural Language to LaTeX  
+https://latexgen.onrender.com/  
 **Node.js • Express • LLM API**
 
 - Converts natural language into compilable LaTeX documents  
@@ -96,14 +96,14 @@ Git • Linux • Docker • AWS
 
 ## Contact
 
-- 📧 Email: achyutha60@gmail.com  
-- 🔗 GitHub: https://github.com/aduddeba  
-- 💼 LinkedIn: https://linkedin.com/in/aduddeba  
+- Email: achyutha60@gmail.com  
+- GitHub: https://github.com/aduddeba  
+- LinkedIn: https://linkedin.com/in/aduddeba  
 
 ---
 
-## What I’m Working On
+## Current Focus
 
-- Expanding **Motivo** with smarter recommendation systems  
-- Exploring ML-driven personalization and ranking  
+- Expanding Motivo with smarter recommendation systems  
+- Exploring machine learning-driven personalization and ranking  
 - Building interactive, real-time web experiences  
